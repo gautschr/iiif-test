@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://gautschr.github.io/iiif-test/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in gautschr/iiif-test project"
+        ]
+    },
+    "items": []
+}
